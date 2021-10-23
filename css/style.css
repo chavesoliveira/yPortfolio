@@ -1,5 +1,17 @@
 .cont1{
-	width: 100%;
-	height: 100%;
 	
+}
+
+.i1{
+	display: flex;
+	position: absolute;
+	float:left;
+  	width:100%;
+  	height:360px;
+}
+
+.dados{
+	flex: 1;
+	position: relative;
+	text-align: center;
 }
